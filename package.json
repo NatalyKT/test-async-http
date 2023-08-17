@@ -1,0 +1,12 @@
+{
+  "name": "test-async-http",
+  "version": "1.0.0",
+  "description": "Тестовое задание на должность \"Разработчик NodeJS\"",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nataly_kt",
+  "license": "ISC"
+}
