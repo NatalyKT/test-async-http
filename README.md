@@ -14,7 +14,7 @@ Requires Node.js v.13+ to run.
 
 Clone repo:
 
-```$ make install```
+```git@github.com:NatalyKT/test-async-http.git```
 
 Send message:
 
