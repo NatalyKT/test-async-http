@@ -1,8 +1,6 @@
 # NodeJS - RabbitMQ
 
-![Super-Linter](https://github.com/NatalyKT/frontend-project-lvl1/workflows/Super-Linter/badge.svg) 
-
-[![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/NatalyKT/frontend-project-lvl1/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/f371a9cf913037bbd8aa/maintainability)](https://codeclimate.com/github/NatalyKT/test-async-http/maintainability)
 
 Тестовое задание на должность "Разработчик NodeJS". В рамках выполнения тестового задания требуется разработать механизм асинхронной обработки HTTP запросов с использованием стека: NodeJS, RabbitMQ
 /
@@ -15,6 +13,8 @@ Requires Node.js v.13+ to run.
 Clone repo:
 
 ```git@github.com:NatalyKT/test-async-http.git```
+
+## Calling the executing command through the terminal
 
 Send message:
 
