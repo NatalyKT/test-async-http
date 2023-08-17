@@ -1,6 +1,3 @@
-install:
-	npm install
-	
 make send:
 	node src/M1
 
